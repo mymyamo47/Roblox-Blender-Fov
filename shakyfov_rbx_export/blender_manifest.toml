@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "shakyfov_rbx_export"
+version = "1.0.2"
+name = "ShakyFOV RBX Export"
+tagline = "Exports blender camera FOV to Roblox! \n\n\n"
+maintainer = "Shaky | Mymyamo47"
+type = "add-on"
+tags = ["Animation"]
+blender_version_min = "4.2.0"
+license = [
+"SPDX:GPL-2.0-or-later",
+]
