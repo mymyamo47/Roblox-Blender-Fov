@@ -6,6 +6,3 @@ Plugin that allows you to easily import animation of cameras Field of View from 
 * Press copy to clipboard
 * Go to roblox studio and press Convert FOV and paste the copied code
 * if you had moon file selected, it will automatically paste the new converted FOV keyframes in there, if not then the FieldOfView folder will be placed in the workspace     
-T
-
-U
