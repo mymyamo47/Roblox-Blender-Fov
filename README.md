@@ -13,5 +13,5 @@ https://create.roblox.com/store/asset/119467265904253/Moon-FOV-Converter
 U can get my camera rig here
 https://drive.google.com/drive/folders/1lkNkglrhln8nOTFP9gEJ3rm4Bw2oPqzz?usp=drive_link
 
-also join my discord server if u want for help :DDDD
+also join my discord server if u want help or chat :DDDD
 https://discord.gg/yJH3R7HQq6
